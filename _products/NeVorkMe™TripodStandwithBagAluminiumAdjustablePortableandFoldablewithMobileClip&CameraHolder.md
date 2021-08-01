@@ -24,7 +24,7 @@ description: >-
   width's phone. Phone bracket is adjustable and lightweight, easy to use and
   carry with. With standard tripod hole, you can install in any 1/4" tripod
   stand.
-aff_link:https://www.amazon.in/dp/B099Q1GYDZ
+aff_link: https://www.amazon.in/dp/B099Q1GYDZ
 sizes:
   - XS
   - Small
