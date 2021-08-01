@@ -15,6 +15,7 @@ garment_type:
 price: '399'
 sku: NVM-SPK-TLS
 stock: 10
+aff_link: https://www.amazon.in/dp/B099SHC2BH
 sizes:
   - 6 inches
 styles:
