@@ -3,7 +3,7 @@ name: >-
   Tripod Stand with Bag by NeVorkMe™ | Aluminium Tripod Stand | Adjustable
   Tripod Stand | Portable and Foldable Tripod Stand | Mobile Clip & Camera
   Holder Tripod Stand
-garment_type:
+garment_type: hat
 price: '399'
 sku: NVM-Tripod
 description: >-
@@ -37,3 +37,5 @@ styles:
     color: '#c0c0c0'
     image: /uploads/image20.png
 ---
+
+
