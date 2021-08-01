@@ -5,7 +5,7 @@ name: >-
 garment_type: top
 price: '259'
 sku: NVM-lavalier
-description_markdown >-
+description_markdown: >-
   With the HSX-M01 Microphone you can finally create the perfect videos and
   audio files on your smartphone and tablet. Pristine sound without .effort, no
   matter where you are.
