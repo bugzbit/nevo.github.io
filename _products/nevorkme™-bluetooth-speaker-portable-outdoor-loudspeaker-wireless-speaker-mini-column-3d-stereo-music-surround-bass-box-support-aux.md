@@ -5,7 +5,7 @@ name: >-
 garment_type: top
 price: '499'
 sku: NVM-TG113
-description: >-
+description_markdown: >-
   Combined with smart technology and design. Gently touching with your
   fingertips easily achieves switching the songs and volume control and taking
   the calls.
