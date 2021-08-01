@@ -16,7 +16,7 @@ description: >-
   for home audio player and outdoor activities speaker.
   The speaker has a built-in Li-Ion 1200 mAh battery, 8-10 H playtime to meet
   your long music time for all your outdoor activities like hiking, partying,
-  cycling
+  cycling.
 aff_link: https://www.amazon.in/dp/B09BCWG9XV
 sizes:
   - XS
