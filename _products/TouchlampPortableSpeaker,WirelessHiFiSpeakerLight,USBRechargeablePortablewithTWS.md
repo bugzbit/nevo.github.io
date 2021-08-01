@@ -19,7 +19,7 @@ sizes:
   - 6 inches
 styles:
   - name: '1'
-    color: '#67aa79'
+    color: '#c0c0c0'
     image: /uploads/61f3d6oHFkL._SL1250_.jpg
 ---
 
