@@ -5,7 +5,7 @@ name: >-
 garment_type: hat
 price: '399'
 sku: NVM-Tripod
-description: >-
+description_markdown: >-
   Material: Aluminium Alloy,Three-Way Head:The tripod's three-way head allows
   for ultimate versatility. Easily change the orientation of the camera from
   portrait to landscape--and almost any angle in between with the handy tilt
