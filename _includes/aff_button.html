@@ -3,7 +3,7 @@
 	{% assign colors = colors | append: '|' | append: style.name %}
 {% endfor %}
 {% assign colors = colors | remove_first: '|' %}
-
-<input type=button onClick="
-parent.location='{{ include.product.aff_link }}'" 
-value='click here to visit home page'/>
+<a href="{{ include.product.aff_link }}" <button class="snipcart-add-item"
+	>
+	{% if include.text %}{{ include.text }}{% else %} amazon {% endif %}
+</button> </a>
