@@ -3,7 +3,7 @@
 	{% assign colors = colors | append: '|' | append: style.name %}
 {% endfor %}
 {% assign colors = colors | remove_first: '|' %}
-<a href="{{ include.product.aff_link }}"></a> <button class="snipcart-add-item"
+<a href= "{{ include.product.aff_link }}" > <button class="snipcart-add-item"
 	>
 	{% if include.text %}{{ include.text }}{% else %} amazon {% endif %}
 </button> </a>
