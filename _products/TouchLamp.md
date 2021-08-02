@@ -15,7 +15,8 @@ garment_type:
 price: '399'
 sku: NVM-SPK-TLS
 stock: 10
-aff_link: https://www.amazon.in/dp/B099SHC2BH
+aff_link: >-
+  https://www.amazon.in/gp/product/B099SHC2BH/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B099SHC2BH&linkCode=as2&tag=nevorkmark-21&linkId=9da9069b1bf2b423619f0df9e2d6e911
 sizes:
   - 6 inches
 styles:
