@@ -1,3 +1,15 @@
+.row{
+  display:flex;
+}
+.column1 {
+  float: left;
+  width: 80%;
+}
+.column2 {
+  float: right;
+  width: 20%;
+}
+
 .container, .text-container {
 	margin: 0 auto;
 	position: relative;
@@ -156,14 +168,3 @@ blockquote .quote:after {
 	padding: 100px 40px 0 40px;
 }
 
-.row{
-  display:flex;
-}
-.column1 {
-  float: left;
-  width: 80%;
-}
-.column2 {
-  float: right;
-  width: 20%;
-}
