@@ -4,7 +4,7 @@ name: >-
   Feet Pads Table Covers Anti-Slip Prevent Scratches Clear
 garment_type: top
 price: '579'
-sku:
+sku: NVM-SiliconeCap
 description: >-
   Size: Measurements the size of chair leg please take the left image for
   reference.
@@ -35,3 +35,5 @@ styles:
     color: '#c0c0c0'
     image: /uploads/81ewtWgHmdL._SL1100_.jpg
 ---
+
+
