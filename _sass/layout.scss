@@ -155,3 +155,15 @@ blockquote .quote:after {
 	flex: 1 1 200px;
 	padding: 100px 40px 0 40px;
 }
+
+.row{
+  display:flex;
+}
+.column1 {
+  float: left;
+  width: 80%;
+}
+.column2 {
+  float: right;
+  width: 20%;
+}
