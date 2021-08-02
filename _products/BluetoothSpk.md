@@ -8,16 +8,15 @@ sku: NVM-TG113
 description_markdown: >-
   Combined with smart technology and design. Gently touching with your
   fingertips easily achieves switching the songs and volume control and taking
-  the calls.
-  Super compact design with 40mm 5 W drivers, and subwoofer resonator
+  the calls. Super compact design with 40mm 5 W drivers, and subwoofer resonator
   Whether you want to listen to the music and chill or listen to your favorite
-  mp3 collection, you simply fit it in your bag and you’re ready to go.
-  Supports 32G TF Card and compatible with most Bluetooth devices and perfect
-  for home audio player and outdoor activities speaker.
-  The speaker has a built-in Li-Ion 1200 mAh battery, 8-10 H playtime to meet
-  your long music time for all your outdoor activities like hiking, partying,
-  cycling.
-aff_link: https://www.amazon.in/dp/B09BCWG9XV
+  mp3 collection, you simply fit it in your bag and you’re ready to go. Supports
+  32G TF Card and compatible with most Bluetooth devices and perfect for home
+  audio player and outdoor activities speaker. The speaker has a built-in Li-Ion
+  1200 mAh battery, 8-10 H playtime to meet your long music time for all your
+  outdoor activities like hiking, partying, cycling.
+aff_link: >-
+  https://www.amazon.in/gp/product/B09BCWG9XV/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B09BCWG9XV&linkCode=as2&tag=nevorkmark-21&linkId=7e9be0afd80ec2369078371e77b8e944
 sizes:
   - XS
   - Small
@@ -29,3 +28,5 @@ styles:
     color: '#c0c0c0'
     image: /uploads/image899.png
 ---
+
+
