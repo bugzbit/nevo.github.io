@@ -8,15 +8,12 @@ sku: NVM-lavalier
 description_markdown: >-
   With the HSX-M01 Microphone you can finally create the perfect videos and
   audio files on your smartphone and tablet. Pristine sound without .effort, no
-  matter where you are.
-
-  This Lavalier Lapel Microphone is small in size and light in weight. One can
-  easily carry it in pockets and anywhere.
-
-  The pin is thin enough to directly plug into your mobile 3.5mm headset jack
-  even wearing a phone protector, High-quality and omnidirectional function,
-  easy to use
-aff_link: https://www.amazon.in/dp/B09B6W5WN2
+  matter where you are. This Lavalier Lapel Microphone is small in size and
+  light in weight. One can easily carry it in pockets and anywhere. The pin is
+  thin enough to directly plug into your mobile 3.5mm headset jack even wearing
+  a phone protector, High-quality and omnidirectional function, easy to use
+aff_link: >-
+  https://www.amazon.in/gp/product/B09B6W5WN2/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B09B6W5WN2&linkCode=as2&tag=nevorkmark-21&linkId=aa7e2a08cb12d94b84168f11e87aaf16
 sizes:
   - XS
   - Small
@@ -28,3 +25,5 @@ styles:
     color: '#c0c0c0'
     image: /uploads/microphone.png
 ---
+
+
